@@ -12,7 +12,7 @@ public class PerhitunganWaktu {
 
 
 /**
- * rumus 
+ * rumus
  */
         // Menghitung waktu dengan rumus jarak dibagi kecepatan
         double waktu = jarak / kecepatan;
